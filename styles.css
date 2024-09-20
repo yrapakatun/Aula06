@@ -1,0 +1,17 @@
+header{
+ background:linear-gradient(rgba(141, 128, 206, 0.601), rgb(80, 86, 200));
+text-align: center;
+justify-content: center;
+align-items: center;
+}
+img{
+border-radius: 40px;
+}
+footer{
+font-weight: bold;
+background:linear-gradient(rgba(141, 128, 206, 0.601), rgb(80, 86, 200));
+
+}
+section{
+    background:linear-gradient(rgba(141, 128, 206, 0.601), rgb(80, 86, 200));
+}
